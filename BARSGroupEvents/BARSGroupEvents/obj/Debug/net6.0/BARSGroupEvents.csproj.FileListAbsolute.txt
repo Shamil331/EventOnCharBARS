@@ -1,0 +1,14 @@
+C:\Users\shiga\Desktop\BARSGroupEvents\BARSGroupEvents\bin\Debug\net6.0\BARSGroupEvents.exe
+C:\Users\shiga\Desktop\BARSGroupEvents\BARSGroupEvents\bin\Debug\net6.0\BARSGroupEvents.deps.json
+C:\Users\shiga\Desktop\BARSGroupEvents\BARSGroupEvents\bin\Debug\net6.0\BARSGroupEvents.runtimeconfig.json
+C:\Users\shiga\Desktop\BARSGroupEvents\BARSGroupEvents\bin\Debug\net6.0\BARSGroupEvents.dll
+C:\Users\shiga\Desktop\BARSGroupEvents\BARSGroupEvents\bin\Debug\net6.0\ref\BARSGroupEvents.dll
+C:\Users\shiga\Desktop\BARSGroupEvents\BARSGroupEvents\bin\Debug\net6.0\BARSGroupEvents.pdb
+C:\Users\shiga\Desktop\BARSGroupEvents\BARSGroupEvents\obj\Debug\net6.0\BARSGroupEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiga\Desktop\BARSGroupEvents\BARSGroupEvents\obj\Debug\net6.0\BARSGroupEvents.AssemblyInfoInputs.cache
+C:\Users\shiga\Desktop\BARSGroupEvents\BARSGroupEvents\obj\Debug\net6.0\BARSGroupEvents.AssemblyInfo.cs
+C:\Users\shiga\Desktop\BARSGroupEvents\BARSGroupEvents\obj\Debug\net6.0\BARSGroupEvents.csproj.CoreCompileInputs.cache
+C:\Users\shiga\Desktop\BARSGroupEvents\BARSGroupEvents\obj\Debug\net6.0\BARSGroupEvents.dll
+C:\Users\shiga\Desktop\BARSGroupEvents\BARSGroupEvents\obj\Debug\net6.0\ref\BARSGroupEvents.dll
+C:\Users\shiga\Desktop\BARSGroupEvents\BARSGroupEvents\obj\Debug\net6.0\BARSGroupEvents.pdb
+C:\Users\shiga\Desktop\BARSGroupEvents\BARSGroupEvents\obj\Debug\net6.0\BARSGroupEvents.genruntimeconfig.cache
